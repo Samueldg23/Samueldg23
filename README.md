@@ -4,13 +4,14 @@
 
 <br clear="both">
 
-<h4 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas, focado em back-end e apaixonado por tecnologia. Antes de entrar para a área de TI, passei mais de 10 anos trabalhando com vendas, o que me ajudou a desenvolver habilidades valiosas, como comunicação, resolução de problemas e adaptação a novos desafios. Agora, estou direcionando esse aprendizado para a programação, sempre buscando evoluir e aprender mais.<br><br>Sou proativo, autodidata e estou sempre explorando novas tecnologias. Atualmente, estou em busca de oportunidades de estágio ou posições na área de TI para colocar em prática meus conhecimentos e contribuir com projetos reais. Se tiver uma oportunidade ou quiser trocar uma ideia sobre tecnologia, é só chamar! 🚀</h4>
+<h4 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas, focado em back-end e gosto de tecnologia. Antes de entrar para a área de TI, passei mais de 10 anos trabalhando com vendas, o que me ajudou a desenvolver habilidades valiosas, como comunicação, resolução de problemas e adaptação a novos desafios. Agora, estou direcionando esse aprendizado para a programação, sempre buscando evoluir e aprender mais.<br><br>Sou proativo, autodidata e estou sempre explorando novas tecnologias. Atualmente, Sou um Estagiário em Desenvolvimento, aprendendo e desenvolvendo usando Javascript, TypeScript e SQL além de utilizar o JasperSoft Studio para desenvolver relatórios em Java. Se tiver uma oportunidade ou quiser trocar uma ideia sobre tecnologia, é só chamar! 🚀</h4>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/samuel-duarte-gomes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
   </a>
   <a href="https://www.youtube.com/@samuelduartegomes" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
